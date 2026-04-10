@@ -20,7 +20,7 @@ Welcome to my GitHub profile! My background is a unique blend of technical engin
 - 🌐 **Portfolio:** [www.sandormatyas.hu](https://www.sandormatyas.hu)
 - ✉️ **Email:** [sandor.matyas18@gmail.com](mailto:sandor.matyas18@gmail.com)
 - 📷 **Instagram:** [@mathiaskoko](https://instagram.com/mathiaskoko)
-- 📘 **Facebook:** [Sándor Mátyás]([https://www.facebook.com/search/top?q=s%C3%A1ndor%20m%C3%A1ty%C3%A1s](https://www.facebook.com/matyas.sandor.391/))
+- 📘 **Facebook:** [Sándor Mátyás](https://www.facebook.com/matyas.sandor.391)
 
 <!---
 sandormatyas99/sandormatyas99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
